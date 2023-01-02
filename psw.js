@@ -1,2 +1,2 @@
 // JavaScript Document
-var xx="dsme2020-666";//这是进站密码
+var xx="dsme2022-888";//这是进站密码
